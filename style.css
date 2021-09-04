@@ -1,0 +1,230 @@
+
+#navBar {
+    background-color: #707070;
+}
+
+/* .nav {
+    background: #3b5249;
+} */
+body{
+    width: 100%;
+    height: 100%;
+}
+#navBar img {
+    height: 30px;
+    width: 50px;
+    border-radius: 10%;
+}
+
+.jumbotron {
+    /* margin-top: 80px; */
+    font-family: 'Work Sans', sans-serif;
+    width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+.container {
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 20px;
+    border: none;
+    
+}
+
+#aboutMe {
+    margin-right: 100%;
+}
+
+.card-body {
+    text-align: start;
+    margin-left: -25%;
+}
+
+.card {
+    border: none;
+}
+
+#skillsList {
+    box-sizing: inherit;
+    background-color: #92817a;
+} 
+
+.skills {
+    background-color: #92817a;
+    background-size: 40%;
+
+}
+
+.content-wrap {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 4rem;
+    font-weight: bolder;
+    /* margin-top: -5%; */
+    height: 100%;
+    
+}
+#statement {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+/* .pt-5, py-5 {
+    padding-top: 3rem!important;
+} */
+
+svg.svg-inline--fa {
+    font-size: 4rem;
+    margin: 5px;
+}
+
+svg.svg-inline--fa:hover {
+    color: #535204!important;
+    /* height: 150px;
+    width: 150; */
+    
+}
+
+#experiences {
+    /* margin-left: 5%; */
+    margin-top: 30px;
+}
+
+.container img {
+    height: 350px;
+    width: 280px;
+    margin-left: 350%;
+    border-radius: 5%;
+} 
+
+#works {
+    height: 30%;
+    width: 30%;
+    margin-left: 35%;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 20px;
+}
+
+.list-inline {
+    color: white;
+    padding-left: 0;
+}
+
+.grow-icon {
+    color: white;
+}
+
+#contact {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    color: white;
+} 
+
+a:link {
+    color: black;
+}
+
+.download-text {
+    text-decoration: none;
+    color: black;
+}
+
+.projects {
+    padding: 2px 4px;
+    background: #92817a;
+    border-radius: 5px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 40px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    color: black;
+    
+}
+
+.project-tile {
+    transition: all .2s ease-in-out;
+}
+
+.carousel-caption {
+    color: white;
+    font-size: 20px;
+}
+
+
+/* .content-wrap {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    overflow: hidden;
+    text-align: center
+} */
+
+
+/* .title-jumbo {
+    margin-bottom: 0 !important;
+    padding-top: 120px;
+} */
+
+.jumbotron-fluid {
+    padding-right: 0;
+    padding-left: 0;
+    border-radius: 0;
+}
+
+
+.container, .container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navC {
+    color: black;
+    background-color: white;
+}
+
+.navC:hover {
+    background-color: #535204;
+}
+
+
+#experiences a .active {
+    background-color: black;
+}
+
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: black;
+    background-color: #535204;
+    
+}
+
+#downloadCV {
+    color: black;
+    text-decoration: none;
+}
+
+#myLink {
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+}
+
+
+
+
+
+
+
