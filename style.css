@@ -126,6 +126,7 @@ svg.svg-inline--fa:hover {
 
 a:link {
     color: black;
+    text-decoration: none;
 }
 
 .download-text {
